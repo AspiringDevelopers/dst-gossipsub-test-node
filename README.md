@@ -17,7 +17,9 @@
 
 6. Gossipsub test node: https://github.com/vacp2p/dst-gossipsub-test-node
 
-   Libp2p Specifications Update: Please visit https://docs.google.com/document/d/14CYAxPjYqmujovC-vHPBSXqJVvfbtImV/edit?usp=sharing&ouid=109169901542566286145&rtpof=true&sd=true 
+## Discussions in Libp2p Specifications Weekly Meetings
+
+   Please visit https://docs.google.com/document/d/14CYAxPjYqmujovC-vHPBSXqJVvfbtImV/edit?usp=sharing&ouid=109169901542566286145&rtpof=true&sd=true 
 
 ## Shadow example
 
