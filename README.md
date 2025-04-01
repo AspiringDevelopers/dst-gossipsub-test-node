@@ -3,6 +3,20 @@
 * DST gossipsub test node
 * incl shadow simulation setup
 
+  Performance Results and key resources:
+
+1. Shadow simulator experiment: https://vac.dev/rlog/gsub-idontwant-perf-eval/
+
+2. https://vac.dev/rlog/gsub-largemsg-improvements/
+
+3. Roadmap: https://roadmap.vac.dev/p2p/
+
+4. Batch Publishing: https://ethresear.ch/t/improving-das-performance-with-gossipsub-batch-publishing/21713
+
+5. DAS Simulator: https://github.com/cskiraly/das-simulator-nim
+
+6. Gossipsub test node: https://github.com/vacp2p/dst-gossipsub-test-node
+
 ## Shadow example
 
 ```sh
