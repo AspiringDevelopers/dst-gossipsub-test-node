@@ -3,7 +3,7 @@
 * DST gossipsub test node
 * incl shadow simulation setup
 
-  Performance Results and key resources:
+# Performance Metrics in Libp2p, Progress Update and Milestones
 
 1. Shadow simulator experiment: https://vac.dev/rlog/gsub-idontwant-perf-eval/
 
