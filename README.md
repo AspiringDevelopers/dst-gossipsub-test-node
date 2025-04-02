@@ -3,6 +3,10 @@
 * DST gossipsub test node
 * incl shadow simulation setup
 
+# Shadow example for go-libp2p, rust-libp2p and nim-libp2p
+
+Please visit https://github.com/AspiringDevelopers/dst-gossipsub-test-node//tree/fc3c3a686c5b85f8b364148887b258f1325b10e6 
+
 # Performance Metrics in Libp2p, Progress Update and Milestones
 
 1. Shadow simulator experiment: https://vac.dev/rlog/gsub-idontwant-perf-eval/
