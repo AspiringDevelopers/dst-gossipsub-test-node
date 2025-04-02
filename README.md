@@ -3,9 +3,14 @@
 * DST gossipsub test node
 * incl shadow simulation setup
 
-# Shadow example for go-libp2p, rust-libp2p and nim-libp2p
+# Shadow and Dockerized Set-up and Performance Metrics for go-libp2p, rust-libp2p and nim-libp2p
 
 Please visit https://github.com/AspiringDevelopers/dst-gossipsub-test-node//tree/fc3c3a686c5b85f8b364148887b258f1325b10e6 
+
+Dockerized set-up with performance metrics in real-time: https://github.com/vacp2p/dst-gossipsub-test-node/tree/dockerized
+
+Go-libp2p is the module used in Optimism mainnet infrastructure.
+
 
 # Performance Metrics in Libp2p, Progress Update and Milestones
 
@@ -24,6 +29,7 @@ Please visit https://github.com/AspiringDevelopers/dst-gossipsub-test-node//tree
 ## Discussions in Libp2p Specifications Weekly Meetings
 
    Please visit https://docs.google.com/document/d/14CYAxPjYqmujovC-vHPBSXqJVvfbtImV/edit?usp=sharing&ouid=109169901542566286145&rtpof=true&sd=true 
+
 
 ## Shadow example
 
