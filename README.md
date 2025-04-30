@@ -1,4 +1,4 @@
-# dst-gossipsub-test-node for Libp2p usage in Optimism
+# dst-gossipsub-test-node for Libp2p
 
 * DST gossipsub test node
 * incl shadow simulation setup
